@@ -24,9 +24,9 @@
 </addon><addon id="repository.bradleysbuilds" name="[COLOR orange]Bradley's Builds[/COLOR]" version="1.0" provider-name="bradley">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/bradleybuilds/repo/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/bradleybuilds/repo/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/bradleybuilds/repo/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/blry12/bradleysrepo/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/blry12/bradleysrepo/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/blry12/bradleysrepo/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
